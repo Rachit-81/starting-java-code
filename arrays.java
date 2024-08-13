@@ -23,6 +23,7 @@ public class arrays {
             for(int j = 0; j < m; j++){
                 System.out.print(numbers[i][j]+ " ");
             }
+            
             // System.out.println();
         }
         // System.out.print("Write the names in your array: ");
